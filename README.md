@@ -1,3 +1,11 @@
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thatsallineed/Fanuc-Communication-Diagnostic/main/fanuc_cnc_robodrill_d.jpg" alt="Fanuc" width="500" height="400">
+</p>
+<br>
+
+
+
 # Fanuc Communication Diagnostic
  Machine Fanuc Industrial Communication tool for diagnostic
 
