@@ -1,0 +1,62 @@
+E:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.exe.config
+E:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.exe
+E:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.pdb
+E:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.csprojResolveAssemblyReference.cache
+E:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.csproj.GenerateResource.Cache
+E:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.exe
+E:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.pdb
+E:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fwlib64.dll
+E:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\fwlibe64.dll
+E:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fwlib64.lib
+E:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\MyFanuc.Form1.resources
+E:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\MyFanuc.Properties.Resources.resources
+H:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fwlib64.lib
+H:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fwlib64.dll
+H:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\fwlibe64.dll
+H:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.exe.config
+H:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.exe
+H:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.pdb
+H:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.csprojAssemblyReference.cache
+H:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\MyFanuc.Form1.resources
+H:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\MyFanuc.Properties.Resources.resources
+H:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.csproj.GenerateResource.cache
+H:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.exe
+H:\My World\Visual Studio\Fanuc Tester\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.pdb
+F:\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fwlib64.lib
+F:\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fwlib64.dll
+F:\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\fwlibe64.dll
+F:\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.exe.config
+F:\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.exe
+F:\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.pdb
+F:\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.csprojAssemblyReference.cache
+F:\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\MyFanuc.Form1.resources
+F:\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\MyFanuc.Properties.Resources.resources
+F:\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.csproj.GenerateResource.cache
+F:\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.exe
+F:\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.pdb
+C:\Git\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fwlib64.lib
+C:\Git\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fwlib64.dll
+C:\Git\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\fwlibe64.dll
+C:\Git\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.exe.config
+C:\Git\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.exe
+C:\Git\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.pdb
+C:\Git\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.csprojAssemblyReference.cache
+C:\Git\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\MyFanuc.Form1.resources
+C:\Git\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\MyFanuc.Properties.Resources.resources
+C:\Git\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.csproj.GenerateResource.cache
+C:\Git\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.csproj.CoreCompileInputs.cache
+C:\Git\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.exe
+C:\Git\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.pdb
+C:\Git\05. In Progress\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fwlib64.lib
+C:\Git\05. In Progress\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fwlib64.dll
+C:\Git\05. In Progress\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\fwlibe64.dll
+C:\Git\05. In Progress\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.exe.config
+C:\Git\05. In Progress\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.exe
+C:\Git\05. In Progress\Fanuc Communication Tester C\Fanuc Communication Tester C\bin\Debug\Fanuc Communication Tester C.pdb
+C:\Git\05. In Progress\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.csprojAssemblyReference.cache
+C:\Git\05. In Progress\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\MyFanuc.Form1.resources
+C:\Git\05. In Progress\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\MyFanuc.Properties.Resources.resources
+C:\Git\05. In Progress\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.csproj.GenerateResource.cache
+C:\Git\05. In Progress\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.csproj.CoreCompileInputs.cache
+C:\Git\05. In Progress\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.exe
+C:\Git\05. In Progress\Fanuc Communication Tester C\Fanuc Communication Tester C\obj\Debug\Fanuc Communication Tester C.pdb
